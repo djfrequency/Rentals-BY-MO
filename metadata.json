@@ -1,0 +1,6 @@
+{
+  "name": "Rentals BY MO",
+  "description": "Professional party, event, tableware, furniture, and event-equipment rentals in Ontario, Canada with instant WhatsApp quotation and admin inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
